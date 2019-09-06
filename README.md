@@ -3,8 +3,8 @@ A Java [limit order book](https://www.investopedia.com/terms/o/order-book.asp) i
 
 ## Install
 ```
-$ git clone https://github.com/rhodey/limit-order-book
-$ cd limit-order-book
+$ git clone https://github.com/rhodey/Jlimit-order-book
+$ cd Jlimit-order-book
 $ mvn install
 ```
 
